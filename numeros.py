@@ -1,5 +1,5 @@
-uno
-dos
+uno = one
+dos = two
 tres
 cuatro
 cinco
